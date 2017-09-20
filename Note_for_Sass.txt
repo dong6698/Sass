@@ -1,1 +1,6 @@
 ======== Sass Note ======
+1. Install Sass
+For mac, since it's already build in the Ruby environment. So for installing Sass just as below: 
+  sudo gem install sass
+Also can use command below to check the version of sass.
+  sass -v
